@@ -1,5 +1,4 @@
 # Sleep, Health and Lifestyle
-Explore sleep health through data analysis of sleep apnea &amp; insomnia. Discover how factors like sleep duration, quality, BMI, stress, activity, occupation &amp; gender intersect with these disorders. 
 
 Based on the dataset, several important conclusions can be drawn regarding sleep
 disorders, sleep quality, and associated health factors. The two primary sleep 
